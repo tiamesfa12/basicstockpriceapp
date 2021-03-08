@@ -1,0 +1,6 @@
+Must install streamlit onto your terminal.
+To be able to deploy any apps onto streamlit, signup on their website https://streamlit.io/ . After sometime a invite will sent to your email that will allow you to deploy a app onto the website. 
+I am using mac-os so on the terminal type in pip3 install streamlit. Easy and quick download.
+Also on terminal you must download yfinance by typing on pip3 install yfinance
+must also import pandas onto your file, if you dont have it install just do the same as installing the previous python packages 
+pip3 install pandas
